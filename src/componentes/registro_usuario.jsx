@@ -58,7 +58,7 @@ function Registro_usuario(){
               </div>
               <div className="col-md-2">
                 <label htmlFor="inputOccupation" className="form-label">
-                  <strong>Ocupación</strong>
+                  <strong>Ocupación</strong>  
                 </label>
                 <input type="text" className="form-control" id="inputOccupation" />
               </div>
